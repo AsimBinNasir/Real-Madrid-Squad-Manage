@@ -21,7 +21,7 @@ export const players = {
       position: "Defender"
     },
     {
-      name: "E.MILIT&Atilde;O",
+      name: 'E.MILIT&Atilde;O',
       jerseyNumber: 3,
       image: "Images/E.Militao.webp",
       position: "Defender"
@@ -45,7 +45,7 @@ export const players = {
       position: "Defender"
     },
     {
-      name: "FRAN GARC&Aacute;",
+      name: "F. GARC&Aacute;",
       jerseyNumber: 20,
       image: "Images/Fran Garcia.webp",
       position: "Defender"
@@ -102,13 +102,13 @@ export const players = {
       position: "Midfielder"
     },
     {
-      name: "A. G&Uum;lER",
+      name: "A. G&Uuml;LER",
       jerseyNumber: 15,
       image: "Images/Arda Guler.webp",
       position: "Midfielder"
     },
     {
-      name: "D. CEBALLOS",
+      name: "CEBALLOS",
       jerseyNumber: 19,
       image: "Images/D. Ceballos.webp",
       position: "Midfielder"
@@ -118,7 +118,7 @@ export const players = {
     {
       name: "VINICIUS JR.",
       jerseyNumber: 7,
-      image: "Images/Vinicius.jpg",
+      image: "Images/Vinicius Jr.webp",
       position: "Forward"
     },
     {
